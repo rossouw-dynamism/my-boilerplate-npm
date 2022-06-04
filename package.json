@@ -3,6 +3,7 @@
 	"description": "my boilerplate npm learning from freeCodeCamp",
 	"keywords": ["lifelonglearning", "enjoying this", "follow the white rabbit", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.0.1",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
